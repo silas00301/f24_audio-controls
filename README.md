@@ -19,7 +19,7 @@
 
 <h2 name="changing-the-application">Changing the Application</h2>
 
-1. If the script is already running: [Stopping the script](#Stopping)
+1. If the script is already running: [Stopping the script](#Stopping-the-script)
 2. Right click the .ahk file
 3. Click on `Open with...`
 4. Choose a text editor like Notepad
