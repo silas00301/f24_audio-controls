@@ -2,7 +2,7 @@
 
 <h3>This script requires AutoHotkey</h3>
 
-<p>This AutoHotkey script allows you to use f24 keys to control the volume and play/pause audio or video players like Spotify.</p>
+<p>This AutoHotkey script allows you to use f24 keys to control the volume and play/pause the audio of media player like Spotify</p>
 
 * [Installation](#installation)
 * [Changing the Application](#changing-the-application)
