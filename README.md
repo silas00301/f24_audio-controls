@@ -1,6 +1,6 @@
-<h1 style="text-decoration: underline;">F24 Audio Controls</h1>
+<h1><ins>F24 Audio Controls</ins></h1>
 
-<h3 style="color: red">This script requires AutoHotkey</h3>
+<h3>This script requires AutoHotkey</h3>
 
 <p>This AutoHotkey script allows you to use f24 keys to control the volume and play/pause audio or video players like Spotify.</p>
 
@@ -19,7 +19,7 @@
 
 <h2 name="changing-the-application">Changing the Application</h2>
 
-1. If the script is already running: [Stopping the script](#Stopping)
+1. If the script is already running: [Stopping the script](#Stopping-the-script-on-startup)
 2. Right click the .ahk file
 3. Click on `Open with...`
 4. Choose a text editor like Notepad
